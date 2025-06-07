@@ -167,7 +167,7 @@ At the moment the site is being developed. You can see it ***[here](https://gith
         "Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"
     </i>
 </div>
-
+<br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">  
 
 ## My contacts:
