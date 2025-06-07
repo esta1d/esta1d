@@ -1,6 +1,7 @@
 <html>
     <body>
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">   
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">
+
 <table align="center">
   <tbody><tr>
     <td align="center" width="96">
@@ -22,8 +23,8 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e52377a97dc875c099eeb0244bef3bd07eab9bc7c29f6730dbeff15e6e6e3a57/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/e52377a97dc875c099eeb0244bef3bd07eab9bc7c29f6730dbeff15e6e6e3a57/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/webpack-icon.svg" style="max-width: 100%;"></a>
-      <br>Webpack
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/user-attachments/assets/a81c4b59-32b6-416b-a205-3be778f97a8e"><img src="https://github.com/user-attachments/assets/a81c4b59-32b6-416b-a205-3be778f97a8e" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/webpack-icon.svg" style="max-width: 100%;"></a>
+      <br>kaggle
     </td>
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667"><img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%;"></a>
@@ -34,12 +35,12 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/user-attachments/assets/76e1c989-cf90-4688-9650-790903a22f93"><img src="https://github.com/user-attachments/assets/76e1c989-cf90-4688-9650-790903a22f93" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/aws-icon.svg" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/user-attachments/assets/9b9a412c-a039-40a5-a434-2e884797168e"><img src="https://github.com/user-attachments/assets/9b9a412c-a039-40a5-a434-2e884797168e" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/aws-icon.svg" style="max-width: 100%;"></a>
       <br>Linux
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%;"></a>
-      <br>C#
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/user-attachments/assets/006da1a3-2c59-4447-9dec-0e8354eb768f"><img src="https://github.com/user-attachments/assets/006da1a3-2c59-4447-9dec-0e8354eb768f" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%;"></a>
+      <br>Pandas
     </td>
   </tr>
   <tr>
@@ -55,8 +56,8 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/697c027ebbdcdca63b3f959f7e9594ff1a47fd2c6506c4af995d9ed8ee768060/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c"><img src="https://camo.githubusercontent.com/697c027ebbdcdca63b3f959f7e9594ff1a47fd2c6506c4af995d9ed8ee768060/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" width="40" height="40" alt="Laravel" data-canonical-src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%;"></a>
-      <br>Laravel
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/user-attachments/assets/cddbc5e0-4d1f-4bc1-9ee2-0efdcfe9ab70"><img src="https://github.com/user-attachments/assets/cddbc5e0-4d1f-4bc1-9ee2-0efdcfe9ab70" width="40" height="40" alt="Laravel" data-canonical-src="https://skillicons.dev/icons?i=laravel" style="max-width: 100%;"></a>
+      <br>Gitlab
     </td>
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"><img src="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="40" height="40" alt="HTML5" data-canonical-src="https://skillicons.dev/icons?i=html" style="max-width: 100%;"></a>
