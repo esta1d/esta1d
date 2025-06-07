@@ -1,11 +1,11 @@
 <html>
   <body>
     <div class="profile" style="width: 100%; margin-left:auto; margin-right: auto;">
-      <div style="display: flex; justify-content: space-between; width: 100%; margin-left:auto; margin-right: auto;">
-        <div>
+      <div style="width: 100%; margin-left:auto; margin-right: auto;">
+        <div style="float: left;">
           <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" alt="1121" width="20%">
         </div>
-        <div>
+        <div style="float: left;">
           <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" alt="1121" width="20%">
         </div>
       </div>
