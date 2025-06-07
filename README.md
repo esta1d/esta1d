@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://abali.ru/wp-content/uploads/2018/05/proxy.imgsmail.ru_.gif" alt="Описание первого изображения" width="100%" height="70px" />
+  <img src="https://usagif.com/wp-content/uploads/gify/christmas-lights-transparent-background-1037-usagif.gif" alt="Описание первого изображения" width="100%" />
 </div>
 
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Alexandr Estaid</h1>
