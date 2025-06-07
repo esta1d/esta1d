@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Alexandr Estaid</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%">  
 
 <div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">
   <a href="#" rel="#">
