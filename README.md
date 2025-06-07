@@ -20,21 +20,21 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 <div align="center" class="heading-element" dir="auto"><img src="https://github.com/marichu-kt/marichu-kt/raw/main/assets/projects.png" width="60%"> </div>
 
 
-* [Anime_Recommendation_System](https://github.com/esta1d/Anime_Recommendation_System/blob/main/README.md)
-* [predicting_taxi_ride_duration](https://github.com/esta1d/predicting_taxi_ride_duration/blob/main/README.md)
-* [Diamond_Price_Prediction](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/README.md)
-* [Recommendations_Book](https://github.com/esta1d/Recommendations_Book/blob/main/README.md)
-* [segmentation_of_clients](https://github.com/esta1d/segmentation_of_clients/blob/main/README.md)
+* ***[Anime_Recommendation_System](https://github.com/esta1d/Anime_Recommendation_System/blob/main/README.md)***
+* ***[predicting_taxi_ride_duration](https://github.com/esta1d/predicting_taxi_ride_duration/blob/main/README.md)***
+* ***[Diamond_Price_Prediction](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/README.md)***
+* ***[Recommendations_Book](https://github.com/esta1d/Recommendations_Book/blob/main/README.md)***
+* ***[segmentation_of_clients](https://github.com/esta1d/segmentation_of_clients/blob/main/README.md)***
 
 ### Current project:
 #### Development of the Minecraft server AniLand.
-At the moment the site is being developed. You can see it [here](https://github.com/esta1d/AniLand_project/blob/main/README.md)
+At the moment the site is being developed. You can see it ***[here](https://github.com/esta1d/AniLand_project/blob/main/README.md)***
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="100%">  
 
 <html>
     <body>
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">  
+    
 <h2 align="center" dir="auto">
   🛠️ TECH STACK
 </h2>
@@ -158,3 +158,5 @@ At the moment the site is being developed. You can see it [here](https://github.
 </tbody></table>
     </body>
 </html>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">  
