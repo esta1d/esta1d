@@ -2,7 +2,7 @@
     <body>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">
 <center>
-    <div>Tech stack</div>
+    <div style="text-align: center;">Tech stack</div>
 </center>   
 <table align="center">
   <tbody><tr>
