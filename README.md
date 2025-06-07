@@ -6,14 +6,21 @@
 
 #### Hello! I'm a budding `Data Scientist` with a focus on `Computer Vision (CV)`. I have experience working with Oracle PL/SQL databases. Additionally, I possess full-stack web development skills—from frontend technologies like HTML, CSS, and JavaScript to backend languages such as PHP and Python. This enables me to handle projects of varying complexity. I'm eager to share my knowledge and learn new things together with you!
 
-## Technologist My Recent Projects
+## 
+* Aspiring Data Scientist focusing mainly on Machine Learning (ML) and Computer Vision (CV).
+* Daily work includes utilizing PL/SQL for managing Oracle databases.
+* During leisure hours, engage in full-stack web development, encompassing front-end (HTML, CSS, JavaScript) and back-end (PHP, Python) components.
+
+## 👨🏻‍💻 My Recent Projects
+* [Anime_Recommendation_System](https://github.com/esta1d/Anime_Recommendation_System/blob/main/README.md)
+* [predicting_taxi_ride_duration](https://github.com/esta1d/predicting_taxi_ride_duration/blob/main/README.md)
 
 
 <html>
     <body>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">  
 <h2 align="center" dir="auto">
-  TECH STACK
+  🛠️ TECH STACK
 </h2>
 <table align="center">
   <tbody><tr>
