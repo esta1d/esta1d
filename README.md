@@ -1,6 +1,6 @@
 <html>
     <body>
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" style="width: 100%;">   
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">   
     <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; border-spacing: 0;">
         <tr>
             <td align="left" style="border: none;">
