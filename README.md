@@ -1,4 +1,6 @@
-# Hi 👋, I'm Alexandr Estaid
+<h1 align="center" dir="auto">
+  Hi 👋, I'm Alexandr Estaid
+</h1>
 
 <html>
     <body>
