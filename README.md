@@ -4,7 +4,7 @@
         <img src="https://usagif.com/wp-content/uploads/loading-51.gif" alt="">
     </div>
   </body>
-</html>
+
 
 <style>
     .container {
@@ -16,7 +16,4 @@
     }
 </style>
 
-<!---
-esta1d/esta1d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</html>
