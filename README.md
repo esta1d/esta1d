@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/74984d4f-fa3c-44ba-9a8f-8d620cfc5722)<html>
+<html>
     <body>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">   
 <table align="center">
@@ -34,8 +34,8 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/aws-icon.svg" style="max-width: 100%;"></a>
-      <br>AWS
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/user-attachments/assets/76e1c989-cf90-4688-9650-790903a22f93"><img src="https://github.com/user-attachments/assets/76e1c989-cf90-4688-9650-790903a22f93" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/aws-icon.svg" style="max-width: 100%;"></a>
+      <br>Linux
     </td>
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667"><img src="https://camo.githubusercontent.com/65598dcd8613baf19c902a37fb42c6f41af5787a9e3cb6a1a8278b6f012360d6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" alt="icon" width="40" height="40" data-canonical-src="https://techstack-generator.vercel.app/csharp-icon.svg" style="max-width: 100%;"></a>
@@ -71,7 +71,7 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"><img src="https://github.com/user-attachments/assets/dad506be-7735-4377-8fca-25bd0d70083e" width="40" height="40" alt="tailwind" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/user-attachments/assets/dad506be-7735-4377-8fca-25bd0d70083e"><img src="https://github.com/user-attachments/assets/dad506be-7735-4377-8fca-25bd0d70083e" width="40" height="40" alt="tailwind" style="max-width: 100%;"></a>
       <br>Docker
     </td>
     <td align="center" width="96">
@@ -100,9 +100,9 @@
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/89e1726bbf4c9d8ab2903453ae648b10405a4083f65186dd188b482174cf321b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373"><img src="https://camo.githubusercontent.com/89e1726bbf4c9d8ab2903453ae648b10405a4083f65186dd188b482174cf321b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373" width="40" height="40" alt="WordPress" data-canonical-src="https://skillicons.dev/icons?i=wordpress" style="max-width: 100%;"></a>
       <br>WordPress
     </td>
-              <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Vue" style="max-width: 100%;"></a>
-      <br>Dotnet
+      <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/user-attachments/assets/51e9d9d0-f2fc-41f3-af3e-fab2b068a30d"><img src="https://github.com/user-attachments/assets/51e9d9d0-f2fc-41f3-af3e-fab2b068a30d" width="40" height="40" alt="Vue" style="max-width: 100%;"></a>
+      <br>Oracle
   </td><td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://camo.githubusercontent.com/6ba82d645da10e17a701db0997df23158e7b860b95bdc1444572b4ef92ccba85/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="icon" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="max-width: 100%;">
