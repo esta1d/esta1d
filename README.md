@@ -1,7 +1,9 @@
 <html>
     <body>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">
-<div>Tech stack</div>
+    <center>
+        <div>Tech stack</div>
+    </center>
         
 <table align="center">
   <tbody><tr>
