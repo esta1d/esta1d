@@ -20,9 +20,13 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=esta1d&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <div align="center" class="heading-element" dir="auto">
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=esta1d&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=esta1d&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=esta1d&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=esta1d&theme=transparent&hide_border=false&include_all_commits=true&count_private=false"/>
+  <br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=esta1d&theme=transparent&hide_border=false"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esta1d&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=esta1d&theme=radical&no-frame=false&no-bg=true&margin-w=4)
