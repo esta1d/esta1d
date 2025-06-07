@@ -15,10 +15,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%">
 
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/711644726461464577) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/esta1d) 
-
+<div align="center" class="heading-element" dir="auto">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=esta1d&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=esta1d&theme=transparent&hide_border=false)<br/>
@@ -32,7 +29,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=esta1d&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
@@ -193,9 +190,11 @@ At the moment the site is being developed. You can see it ***[here](https://gith
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">  
 
-## My contacts:
-* ***[Telegram](https://t.me/esta1d)***
-* ***[Git](https://github.com/esta1d)***
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/711644726461464577)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/esta1d) 
+
 
 > Always open to new knowledge and interesting projects, constantly striving to develop my skills and qualifications. Love solving non-standard tasks and sharing accumulated experience. Each new day brings joy from the opportunities to learn and grow professionally. Ready to actively collaborate on exciting projects and support the team in achieving common goals.
 
