@@ -7,13 +7,13 @@
 Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I have experience working with *Oracle PL/SQL* databases. Additionally, I possess full-stack web development skills—from frontend technologies like *HTML*, *CSS*, and *JavaScript* to backend languages such as *PHP* and *Python*. This enables me to handle projects of varying complexity. I'm eager to share my knowledge and learn new things together with you!
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%">  
+##
 
 * *Data Scientist* focusing mainly on *Machine Learning (ML)* and *Computer Vision (CV)*.
 * Daily work includes utilizing *PL/SQL* for managing Oracle databases.
 * During leisure hours, engage in full-stack web development, encompassing front-end *(HTML, CSS, JavaScript)* and back-end *(PHP, Python)* components.
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%">  https://www.animatedimages.org/data/media/562/animated-line-image-0244.gif
 
 ## 👨🏻‍💻 My Recent Projects
 
@@ -30,6 +30,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 ### Development of the Minecraft server AniLand.
 At the moment the site is being developed. You can see it [here](https://github.com/esta1d/AniLand_project/blob/main/README.md)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0244.gif" width="100%">  
 
 <html>
     <body>
