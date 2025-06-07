@@ -30,7 +30,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 #### Development of the Minecraft server AniLand.
 At the moment the site is being developed. You can see it ***[here](https://github.com/esta1d/AniLand_project/blob/main/README.md)***
 
-<img src="https://i.pinimg.com/originals/16/98/ea/1698ea45b27fc174ba3243d9e656f68e.gif" width="100%">   https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif
+<img src="https://i.pinimg.com/originals/16/98/ea/1698ea45b27fc174ba3243d9e656f68e.gif" width="100%">   https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif https://www.muraldecal.com/en/img/whol019-png/folder/products-detalle-png/wall-stickers-to-be-continued-comic.png
 
 <html>
     <body>
@@ -176,4 +176,4 @@ At the moment the site is being developed. You can see it ***[here](https://gith
 
 > Always open to new knowledge and interesting projects, constantly striving to develop my skills and qualifications. Love solving non-standard tasks and sharing accumulated experience. Each new day brings joy from the opportunities to learn and grow professionally. Ready to actively collaborate on exciting projects and support the team in achieving common goals.
 
-
+<img src="https://www.muraldecal.com/en/img/whol019-png/folder/products-detalle-png/wall-stickers-to-be-continued-comic.png" width="100%">
