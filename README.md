@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Alexandr Estaid
 
-### Hello! I'm a budding `Data Scientist` with a focus on `Computer Vision (CV)`. I have experience working with Oracle PL/SQL databases. Additionally, I possess full-stack web development skills—from frontend technologies like HTML, CSS, and JavaScript to backend languages such as PHP and Python. This enables me to handle projects of varying complexity. I'm eager to share my knowledge and learn new things together with you!
+#### Hello! I'm a budding `Data Scientist` with a focus on `Computer Vision (CV)`. I have experience working with Oracle PL/SQL databases. Additionally, I possess full-stack web development skills—from frontend technologies like HTML, CSS, and JavaScript to backend languages such as PHP and Python. This enables me to handle projects of varying complexity. I'm eager to share my knowledge and learn new things together with you!
 
 <html>
     <body>
