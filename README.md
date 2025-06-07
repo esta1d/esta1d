@@ -4,14 +4,17 @@
 
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Alexandr Estaid</h1>
 
-#### Hello! I'm a budding `Data Scientist` with a focus on `Computer Vision (CV)`. I have experience working with Oracle PL/SQL databases. Additionally, I possess full-stack web development skills—from frontend technologies like HTML, CSS, and JavaScript to backend languages such as PHP and Python. This enables me to handle projects of varying complexity. I'm eager to share my knowledge and learn new things together with you!
+#### Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I have experience working with *Oracle PL/SQL* databases. Additionally, I possess full-stack web development skills—from frontend technologies like *HTML*, *CSS*, and *JavaScript* to backend languages such as *PHP* and *Python*. This enables me to handle projects of varying complexity. I'm eager to share my knowledge and learn new things together with you!
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%">  
 
-* Data Scientist focusing mainly on Machine Learning (ML) and Computer Vision (CV).
-* Daily work includes utilizing PL/SQL for managing Oracle databases.
-* During leisure hours, engage in full-stack web development, encompassing front-end (HTML, CSS, JavaScript) and back-end (PHP, Python) components.
+* *Data Scientist* focusing mainly on *Machine Learning (ML)* and *Computer Vision (CV)*.
+* Daily work includes utilizing *PL/SQL* for managing Oracle databases.
+* During leisure hours, engage in full-stack web development, encompassing front-end *(HTML, CSS, JavaScript)* and back-end *(PHP, Python)* components.
+
+<img src="https://i.pinimg.com/originals/d1/43/7e/d1437e0ad6c68d3f28dc5101da8cd007.png" width="100%">  
+
 
 ## 👨🏻‍💻 My Recent Projects
 * [Anime_Recommendation_System](https://github.com/esta1d/Anime_Recommendation_System/blob/main/README.md)
