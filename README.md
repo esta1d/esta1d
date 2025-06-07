@@ -1,6 +1,7 @@
 <html>
     <body>
         <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" align="left"/>
-        <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" align="right"/>
+        <img src="https://camo.githubusercontent.com/e2bef424af31f4620d085285ced6c4fdae1b728a9af4fc9cb60b285976cc9590/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f336b50446d6f5764427051504e68436e55472f67697068792e6769663f6369643d6563663035653437637a63633533323736357773356f756d7379666c6d7272336c383461686338777075326f726238372665703d76315f676966735f72656c61746564267269643d67697068792e6769662663743d73" width="20%" align="center"/>
+        <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" align="right"/> 
     </body>
 </html>
