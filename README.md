@@ -2,6 +2,9 @@
     <body>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">
 <div style="text-align: center;">Tech stack</div>  
+<p align="center" dir="auto">
+  Tech stack
+</p>
 <table align="center">
   <tbody><tr>
     <td align="center" width="96">
