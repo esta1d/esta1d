@@ -13,7 +13,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 * Daily work includes utilizing *PL/SQL* for managing Oracle databases.
 * During leisure hours, engage in full-stack web development, encompassing front-end *(HTML, CSS, JavaScript)* and back-end *(PHP, Python)* components.
 
-<img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65c0d7930f0158222609fcb3_65c0da7d1779e93e9ae697b4/scale_1200" width="100%">  
+<img src="https://i.pinimg.com/originals/be/ce/0c/bece0c797cb134aefb2cb836578c9249.gif" width="100%">  
 
 
 ## 👨🏻‍💻 My Recent Projects
