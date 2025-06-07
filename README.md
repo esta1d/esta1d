@@ -14,7 +14,10 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%">
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=esta1d&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=esta1d&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=esta1d&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <div align="center" class="heading-element" dir="auto">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=esta1d&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
