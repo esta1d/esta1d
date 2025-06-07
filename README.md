@@ -4,6 +4,9 @@
 <p align="center" dir="auto" style="font-size: 30px;">
   Tech stack
 </p>
+        <p style="text-align: center; font-size: 30px; direction: auto;">
+  Tech stack
+</p>
 <table align="center">
   <tbody><tr>
     <td align="center" width="96">
