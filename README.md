@@ -1,7 +1,6 @@
 <html>
     <body>
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">
-<div style="text-align: center;">Tech stack</div>  
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">  
 <p align="center" dir="auto">
   Tech stack
 </p>
