@@ -169,4 +169,9 @@ At the moment the site is being developed. You can see it ***[here](https://gith
 </div>
 
 ## My contacts:
-[Telegram](https://t.me/esta1d)
+* ***[Telegram](https://t.me/esta1d)***
+* ***[Git](https://github.com/esta1d)***
+
+> Always open to new knowledge and interesting projects, constantly striving to develop my skills and qualifications. Love solving non-standard tasks and sharing accumulated experience. Each new day brings joy from the opportunities to learn and grow professionally. Ready to actively collaborate on exciting projects and support the team in achieving common goals.
+
+## to be continued
