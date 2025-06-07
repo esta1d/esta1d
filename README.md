@@ -1,4 +1,4 @@
-<html>
+![image](https://github.com/user-attachments/assets/74984d4f-fa3c-44ba-9a8f-8d620cfc5722)<html>
     <body>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">   
 <table align="center">
@@ -71,8 +71,8 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" style="max-width: 100%;"></a>
-      <br>Android
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"><img src="https://github.com/user-attachments/assets/dad506be-7735-4377-8fca-25bd0d70083e" width="40" height="40" alt="tailwind" style="max-width: 100%;"></a>
+      <br>Docker
     </td>
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/97939f9db204e8077f372bc4371cd77fc1fe6027e0116d9d2266e7d08dcb76be/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279"><img src="https://camo.githubusercontent.com/97939f9db204e8077f372bc4371cd77fc1fe6027e0116d9d2266e7d08dcb76be/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" width="40" height="40" alt="jQuery" data-canonical-src="https://skillicons.dev/icons?i=jquery" style="max-width: 100%;"></a>
