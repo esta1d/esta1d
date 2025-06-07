@@ -30,7 +30,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 #### Development of the Minecraft server AniLand.
 At the moment the site is being developed. You can see it ***[here](https://github.com/esta1d/AniLand_project/blob/main/README.md)***
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="100%">  
+<img src="https://i.pinimg.com/originals/16/98/ea/1698ea45b27fc174ba3243d9e656f68e.gif" width="100%">   https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif
 
 <html>
     <body>
