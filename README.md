@@ -3,9 +3,9 @@
 <html>
     <body>
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="100%">  
-<p align="center" dir="auto" style="font-size: 30px;">
-  <h3>TECH STACK</h3>
-</p>
+<h3 align="center" dir="auto">
+  TECH STACK
+</h3>
 <table align="center">
   <tbody><tr>
     <td align="center" width="96">
