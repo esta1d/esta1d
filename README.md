@@ -1,16 +1,20 @@
-- 👋 Hi, I’m @esta1d
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <html>
   <body>
-    <div>Ntcsdfsd</div>
+    <div class="container">
+        <img src="https://usagif.com/wp-content/uploads/loading-51.gif" alt="">
+    </div>
   </body>
 </html>
+
+<style>
+    .container {
+        width: 1000px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
 
 <!---
 esta1d/esta1d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
