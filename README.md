@@ -176,4 +176,4 @@ At the moment the site is being developed. You can see it ***[here](https://gith
 
 > Always open to new knowledge and interesting projects, constantly striving to develop my skills and qualifications. Love solving non-standard tasks and sharing accumulated experience. Each new day brings joy from the opportunities to learn and grow professionally. Ready to actively collaborate on exciting projects and support the team in achieving common goals.
 
-<img src="https://drive.google.com/file/d/1YF_1Enchkk2v1-aTAYLenMKKjP11BkXC/view" width="100%">
+<img src="https://postimg.cc/xcCD8Zb1" width="100%">
