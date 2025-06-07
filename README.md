@@ -17,7 +17,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 
 ## 👨🏻‍💻 My Recent Projects
 
-<img src="https://github.com/marichu-kt/marichu-kt/raw/main/assets/projects.png" width="60%"> 
+<img align="center" src="https://github.com/marichu-kt/marichu-kt/raw/main/assets/projects.png" width="60%"> 
 
 * [Anime_Recommendation_System](https://github.com/esta1d/Anime_Recommendation_System/blob/main/README.md)
 * [predicting_taxi_ride_duration](https://github.com/esta1d/predicting_taxi_ride_duration/blob/main/README.md)
