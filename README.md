@@ -24,7 +24,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esta1d&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
-</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=esta1d&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -35,6 +35,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=esta1d&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%">
 
