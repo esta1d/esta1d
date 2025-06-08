@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://usagif.com/wp-content/uploads/gify/christmas-lights-transparent-background-1037-usagif.gif" alt="alt" width="100%" />
+  <img src="https://usagif.com/wp-content/uploads/gify/christmas-lights-transparent-background-1037-usagif.gif" alt="alt" width="100%"/>
 </div>
 
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Alexandr Estaid</h1>
@@ -15,12 +15,6 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%">
 
 
-
-
-
-
-
-
 # 📊 GitHub Stats:
 <div align="center" class="heading-element" dir="auto">
 <p align="center">
@@ -30,6 +24,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esta1d&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=esta1d&theme=radical&no-frame=false&no-bg=false&margin-w=4)
