@@ -40,7 +40,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=esta1d&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%">
 [![](https://visitcount.itsvg.in/api?id=esta1d&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
