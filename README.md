@@ -40,21 +40,13 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=esta1d&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=esta1d&icon=0&color=5)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" width="100%">
 
 
-
-
-
-
-
 ## 👨🏻‍💻 My Recent Projects
 
-<div align="center" class="heading-element" dir="auto"><img src="https://github.com/marichu-kt/marichu-kt/raw/main/assets/projects.png" width="60%"> </div>
-
+<div align="center" class="heading-element" dir="auto"><img src="https://github.com/marichu-kt/marichu-kt/raw/main/assets/projects.png" width="60%"></div>
 
 * ***[Anime_Recommendation_System](https://github.com/esta1d/Anime_Recommendation_System/blob/main/README.md)***
 * ***[predicting_taxi_ride_duration](https://github.com/esta1d/predicting_taxi_ride_duration/blob/main/README.md)***
