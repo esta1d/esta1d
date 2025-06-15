@@ -47,6 +47,7 @@ Hello! I'm a budding *Data Scientist* with a focus on *Computer Vision (CV)*. I 
 </div>
 
 * ***[Anime_Recommendation_System](https://github.com/esta1d/Anime_Recommendation_System/blob/main/README.md)***
+* ***[CV_car_number_plate_detection](https://github.com/esta1d/CV_car_number_plate_detection/blob/main/README.md)***
 * ***[predicting_taxi_ride_duration](https://github.com/esta1d/predicting_taxi_ride_duration/blob/main/README.md)***
 * ***[Diamond_Price_Prediction](https://github.com/esta1d/Diamond_Price_Prediction/blob/main/README.md)***
 * ***[Recommendations_Book](https://github.com/esta1d/Recommendations_Book/blob/main/README.md)***
